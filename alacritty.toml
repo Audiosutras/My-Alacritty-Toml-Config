@@ -1,0 +1,10 @@
+[window]
+opacity = 0.6
+blur = true
+
+[font]
+normal = { family = "AurulentSansMNerdFontMono", style = "Regular" }
+size = 10.25
+
+[cursor]
+style = { shape = "Underline", blinking = "On" }

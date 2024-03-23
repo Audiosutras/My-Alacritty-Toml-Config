@@ -1,10 +1,18 @@
+# Alacritty Configuration File
+# https://alacritty.org/config-alacritty.html
+
 [window]
 opacity = 0.6
 blur = true
 
 [font]
-normal = { family = "AurulentSansMNerdFontMono", style = "Regular" }
-size = 10.25
+# Fonts From:
+# https://www.nerdfonts.com/font-downloads
+normal = { family = "HackNerdFontPropo", style = "Regular" }
+bold = { family = "HackNerdFontPropo", style = "Bold" }
+italic = { family = "HackNerdFontPropo", style = "Italic" }
+bold_italic = { family = "HackNerdFontPropo", style = "BoldItalic"} 
+size = 11.25
 
 [cursor]
-style = { shape = "Underline", blinking = "On" }
+style = { shape = "Block", blinking = "On" }

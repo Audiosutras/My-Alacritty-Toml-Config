@@ -9,3 +9,5 @@ Setup:
 ```bash
 git clone https://github.com/Audiosutras/My-Alacritty-Toml-Config.git alacritty
 ```
+
+Comment out (`#`) the `[fonts]` section in `alacritty.toml` until you download [nerd fonts](https://www.nerdfonts.com/) or clone the **Patched Fonts** repository [here](https://github.com/Audiosutras/Patched-Fonts).

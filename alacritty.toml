@@ -2,8 +2,7 @@
 # https://alacritty.org/config-alacritty.html
 
 [window]
-opacity = 0.6
-blur = true
+opacity = 0.7
 
 [font]
 # Fonts From:

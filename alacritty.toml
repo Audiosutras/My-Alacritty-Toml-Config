@@ -2,7 +2,7 @@
 # https://alacritty.org/config-alacritty.html
 
 [window]
-opacity = 0.8
+opacity = 0.9
 
 [font]
 # Fonts From:

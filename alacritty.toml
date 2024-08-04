@@ -2,7 +2,7 @@
 # https://alacritty.org/config-alacritty.html
 
 [window]
-opacity = 0.9
+opacity = 0.8
 
 [font]
 # Fonts From:
@@ -10,8 +10,8 @@ opacity = 0.9
 normal = { family = "HackNerdFontPropo", style = "Regular" }
 bold = { family = "HackNerdFontPropo", style = "Bold" }
 italic = { family = "HackNerdFontPropo", style = "Italic" }
-bold_italic = { family = "HackNerdFontPropo", style = "BoldItalic"} 
-size = 11.25
+bold_italic = { family = "HackNerdFontPropo", style = "BoldItalic" }
+size = 10.25
 
 [cursor]
 style = { shape = "Block", blinking = "On" }

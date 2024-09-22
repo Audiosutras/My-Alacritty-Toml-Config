@@ -1,11 +1,11 @@
 # Alacritty Configuration File
 # https://alacritty.org/config-alacritty.html
 import = [
-  "~/.config/alacritty/themes/themes/baitong.toml"
+  "~/.config/alacritty/themes/themes/tomorrow_night_bright.toml"
 ]
 
 [window]
-opacity = 0.8
+opacity = 0.85
 
 [font]
 # Fonts From:
@@ -14,7 +14,7 @@ normal = { family = "HackNerdFontPropo", style = "Regular" }
 bold = { family = "HackNerdFontPropo", style = "Bold" }
 italic = { family = "HackNerdFontPropo", style = "Italic" }
 bold_italic = { family = "HackNerdFontPropo", style = "BoldItalic" }
-size = 10.25
+size = 8.25
 
 [cursor]
 style = { shape = "Block", blinking = "On" }

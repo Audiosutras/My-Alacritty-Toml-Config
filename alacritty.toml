@@ -1,9 +1,9 @@
 # Alacritty Configuration File
 # https://alacritty.org/config-alacritty.html
-import = ["~/.config/alacritty/themes/themes/github_dark_high_contrast.toml"]
+import = ["~/.config/alacritty/themes/themes/github_light_high_contrast.toml"]
 
 [window]
-opacity = 0.75
+opacity = 1
 
 [font]
 # Fonts From:

@@ -3,7 +3,7 @@
 import = ["~/.config/alacritty/themes/themes/github_dark_high_contrast.toml"]
 
 [window]
-opacity = 0.75
+opacity = 1
 
 [font]
 # Fonts From:

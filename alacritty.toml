@@ -1,6 +1,3 @@
-# Alacritty Configuration File
-# https://alacritty.org/config-alacritty.html
-import = ["~/.config/alacritty/themes/themes/github_light_high_contrast.toml"]
 
 [window]
 opacity = 1
@@ -16,3 +13,8 @@ size = 8.25
 
 [cursor]
 style = { shape = "Block", blinking = "On" }
+
+[general]
+# Alacritty Configuration File
+# https://alacritty.org/config-alacritty.html
+import = ["~/.config/alacritty/themes/themes/github_light_high_contrast.toml"]

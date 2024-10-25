@@ -1,6 +1,6 @@
 
 [window]
-opacity = 0.75
+opacity = 0.85
 
 [font]
 # Fonts From:
@@ -12,7 +12,7 @@ bold_italic = { family = "HackNerdFontPropo", style = "BoldItalic" }
 size = 8.25
 
 [cursor]
-style = { shape = "Block", blinking = "On" }
+style = { shape = "Underline", blinking = "On" }
 
 [general]
 # Alacritty Configuration File

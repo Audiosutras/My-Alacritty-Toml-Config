@@ -1,3 +1,5 @@
+
+
 # My Alacritty Configuration
 
 This is my personal alacritty configuration.
@@ -10,7 +12,7 @@ Setup:
 git clone https://github.com/Audiosutras/My-Alacritty-Toml-Config.git alacritty
 ```
 
-Comment out (`#`) the `[fonts]` section in `alacritty.toml` until you download [nerd fonts](https://www.nerdfonts.com/) or clone the **Patched Fonts** repository [here](https://github.com/Audiosutras/Patched-Fonts).
+Comment out (`#`) the `[font]` section in `alacritty.toml` until you download [nerd fonts](https://www.nerdfonts.com/) or clone the **Patched Fonts** repository [here](https://github.com/Audiosutras/Patched-Fonts).
 
 Alacritty [themes](https://github.com/alacritty/alacritty-theme) are included in this repository.
  To add a theme add the following to the top of
@@ -21,5 +23,4 @@ Alacritty [themes](https://github.com/alacritty/alacritty-theme) are included in
 import = [
   "~/.config/alacritty/themes/themes/{theme}.toml"
 ]
-```
 ```
